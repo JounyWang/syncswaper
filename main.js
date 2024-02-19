@@ -35,7 +35,7 @@ const routerAddress = '0x2da10A1e27bF85cEdD8FFb1AbBe97e53391C0295';
 // Set project name for logging purposes
 const projectName = 'SyncSwap';
 // Set maximum GAS price, program doesn't execute if mainnet GAS is higher than this value
-const maxGasPrice = 40;
+const maxGasPrice = 30;
 // Set random transaction amount percentages
 const minAmountPct = 0.2;
 const maxAmountPct = 0.3;
